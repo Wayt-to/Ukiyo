@@ -1,0 +1,621 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3782263-E788-4C6A-9F28-5AFBA7516036}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\61vah\\source\\repos\\ukiyo\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3782263-E788-4C6A-9F28-5AFBA7516036}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|c:\\users\\61vah\\source\\repos\\ukiyo\\ukiyo\\adminpaneli\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\giris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\giris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\default.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\default.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\uyelerilistele.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\uyelerilistele.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\moderatorlistesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\moderatorlistesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\default.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\default.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\categories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\categories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\kategorilistele.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\kategorilistele.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\moderatorlistesi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\moderatorlistesi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\kategorilistele.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\kategorilistele.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\yorumlarilistele.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\yorumlarilistele.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\makalelerilistele.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\makalelerilistele.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\uyelerilistele.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\uyelerilistele.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\yorumlarilistele.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\yorumlarilistele.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\yorumlar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\yorumlar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\assets\\masterstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\assets\\masterstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3782263-E788-4C6A-9F28-5AFBA7516036}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\dataaccesslayer\\connectionpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3782263-E788-4C6A-9F28-5AFBA7516036}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\connectionpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\moderatoratama.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\moderatoratama.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\kay\u0131t.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\kay\u0131t.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\moderatoratama.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\moderatoratama.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\kay\u0131t.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\kay\u0131t.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\uyeler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\uyeler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\uyeler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\uyeler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3782263-E788-4C6A-9F28-5AFBA7516036}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\dataaccesslayer\\yoneticiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3782263-E788-4C6A-9F28-5AFBA7516036}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\yoneticiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\assets\\css\\masterstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\assets\\css\\masterstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\assets\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\assets\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\makaleicerik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\makaleicerik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\makaleicerik.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\makaleicerik.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3782263-E788-4C6A-9F28-5AFBA7516036}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\dataaccesslayer\\makaleler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3782263-E788-4C6A-9F28-5AFBA7516036}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\makaleler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\ukiyo\\adminpaneli\\kategoriduzenle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989012E0-C968-4FCD-A824-250E456E571C}|Ukiyo\\Ukiyo.csproj|solutionrelative:ukiyo\\adminpaneli\\kategoriduzenle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3782263-E788-4C6A-9F28-5AFBA7516036}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\61vah\\source\\repos\\Ukiyo\\dataaccesslayer\\uyeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3782263-E788-4C6A-9F28-5AFBA7516036}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\uyeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\DataAccessLayer\\DataModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataModel.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\DataAccessLayer\\DataModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataModel.cs",
+              "ViewState": "AQIAAIMDAAAAAAAAAAAAAJsDAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:27:49.875Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.Master.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Default.Master.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\Default.Master.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Default.Master.cs",
+              "RelativeToolTip": "Ukiyo\\Default.Master.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:25:03.984Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "masterstyle.css",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\assets\\masterstyle.css",
+              "RelativeDocumentMoniker": "Ukiyo\\assets\\masterstyle.css",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\assets\\masterstyle.css",
+              "RelativeToolTip": "Ukiyo\\assets\\masterstyle.css",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAAADkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-27T03:06:44.572Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MasterStyle.css",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Assets\\css\\MasterStyle.css",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\Assets\\css\\MasterStyle.css",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Assets\\css\\MasterStyle.css",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\Assets\\css\\MasterStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-15T14:16:14.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormStyle.css",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Assets\\css\\FormStyle.css",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\Assets\\css\\FormStyle.css",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Assets\\css\\FormStyle.css",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\Assets\\css\\FormStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T22:39:24.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConnectionPath.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\DataAccessLayer\\ConnectionPath.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ConnectionPath.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\DataAccessLayer\\ConnectionPath.cs",
+              "RelativeToolTip": "DataAccessLayer\\ConnectionPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:02:32.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "KategoriDuzenle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\KategoriDuzenle.aspx.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\KategoriDuzenle.aspx.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\KategoriDuzenle.aspx.cs",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\KategoriDuzenle.aspx.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:12:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Makaleler.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\DataAccessLayer\\Makaleler.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Makaleler.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\DataAccessLayer\\Makaleler.cs",
+              "RelativeToolTip": "DataAccessLayer\\Makaleler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:32:22.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Uyeler.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\DataAccessLayer\\Uyeler.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Uyeler.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\DataAccessLayer\\Uyeler.cs",
+              "RelativeToolTip": "DataAccessLayer\\Uyeler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:16:21.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MakaleIcerik.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\MakaleIcerik.aspx.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\MakaleIcerik.aspx.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\MakaleIcerik.aspx.cs",
+              "RelativeToolTip": "Ukiyo\\MakaleIcerik.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:42:07.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MakaleIcerik.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\MakaleIcerik.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\MakaleIcerik.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\MakaleIcerik.aspx",
+              "RelativeToolTip": "Ukiyo\\MakaleIcerik.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T15:12:46.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UyeleriListele.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\UyeleriListele.aspx.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\UyeleriListele.aspx.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\UyeleriListele.aspx.cs",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\UyeleriListele.aspx.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAD4vzMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:18:03.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Yoneticiler.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\DataAccessLayer\\Yoneticiler.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Yoneticiler.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\DataAccessLayer\\Yoneticiler.cs",
+              "RelativeToolTip": "DataAccessLayer\\Yoneticiler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:41:54.17Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Default.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\Default.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Default.aspx",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T22:41:52.419Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Default.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\Default.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Default.aspx",
+              "RelativeToolTip": "Ukiyo\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T13:59:28.732Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categories.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Categories.aspx.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\Categories.aspx.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Categories.aspx.cs",
+              "RelativeToolTip": "Ukiyo\\Categories.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:26:36.694Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Categories.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Categories.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\Categories.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Categories.aspx",
+              "RelativeToolTip": "Ukiyo\\Categories.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T22:13:17.364Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Uyeler.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Uyeler.aspx.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\Uyeler.aspx.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Uyeler.aspx.cs",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\Uyeler.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:58:36.522Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Uyeler.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Uyeler.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\Uyeler.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Uyeler.aspx",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\Uyeler.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T23:16:36.788Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ModeratorAtama.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\ModeratorAtama.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\ModeratorAtama.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\ModeratorAtama.aspx",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\ModeratorAtama.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T13:15:17.616Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModeratorListesi.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\ModeratorListesi.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\ModeratorListesi.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\ModeratorListesi.aspx",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\ModeratorListesi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T14:36:03.86Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModeratorListesi.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\ModeratorListesi.aspx.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\ModeratorListesi.aspx.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\ModeratorListesi.aspx.cs",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\ModeratorListesi.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:41:28.087Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UyeleriListele.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\UyeleriListele.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\UyeleriListele.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\UyeleriListele.aspx",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\UyeleriListele.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T23:17:16.972Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "YorumlariListele.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\YorumlariListele.aspx.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\YorumlariListele.aspx.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\YorumlariListele.aspx.cs",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\YorumlariListele.aspx.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:45:40.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KategoriListele.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\KategoriListele.aspx.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\KategoriListele.aspx.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\KategoriListele.aspx.cs",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\KategoriListele.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:32:42.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KategoriListele.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\KategoriListele.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\KategoriListele.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\KategoriListele.aspx",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\KategoriListele.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T20:32:23.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MakaleleriListele.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\MakaleleriListele.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\MakaleleriListele.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\MakaleleriListele.aspx",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\MakaleleriListele.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T20:31:03.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ModeratorAtama.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\ModeratorAtama.aspx.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\ModeratorAtama.aspx.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\ModeratorAtama.aspx.cs",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\ModeratorAtama.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwDsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:06:05.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Kay\u0131t.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Kay\u0131t.aspx.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\Kay\u0131t.aspx.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Kay\u0131t.aspx.cs",
+              "RelativeToolTip": "Ukiyo\\Kay\u0131t.aspx.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowDkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:52:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Kay\u0131t.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Kay\u0131t.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\Kay\u0131t.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Kay\u0131t.aspx",
+              "RelativeToolTip": "Ukiyo\\Kay\u0131t.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T15:24:07.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\AdminLogin.aspx.cs",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\AdminLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\AdminLogin.aspx.cs",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\AdminLogin.aspx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowCoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:00:39.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\AdminLogin.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\AdminLogin.aspx",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T15:00:29.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.Master",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Default.Master",
+              "RelativeDocumentMoniker": "Ukiyo\\Default.Master",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Default.Master",
+              "RelativeToolTip": "Ukiyo\\Default.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T23:00:11.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Giris.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Giris.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\Giris.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\Giris.aspx",
+              "RelativeToolTip": "Ukiyo\\Giris.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T14:38:12.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "YorumlariListele.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\YorumlariListele.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\YorumlariListele.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\YorumlariListele.aspx",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\YorumlariListele.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-11T13:33:53.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Yorumlar.aspx",
+              "DocumentMoniker": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Yorumlar.aspx",
+              "RelativeDocumentMoniker": "Ukiyo\\AdminPaneli\\Yorumlar.aspx",
+              "ToolTip": "C:\\Users\\61vah\\source\\repos\\Ukiyo\\Ukiyo\\AdminPaneli\\Yorumlar.aspx",
+              "RelativeToolTip": "Ukiyo\\AdminPaneli\\Yorumlar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-11T13:29:50.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

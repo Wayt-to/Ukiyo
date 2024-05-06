@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Ukiyo.AdminPaneli.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Ukiyo Yönetim Paneli</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Assets/css/MasterStyle.css" rel="stylesheet" />
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="ustPanel">
+            <div class="baslik">
+                <a href="Default.aspx">Ukiyo Yönetim Paneli</a>
+            </div>
+            <div class="kullanici">
+                <asp:Label ID="lbl_kullanici" runat="server" />
+                <label>|</label>
+                <asp:LinkButton class="cikis" Text="Güvenli Çıkış" ID="lbtn_cikis" runat="server" OnClick="lbtn_cikis_Click" />
+            </div>
+        </div>
+        <div class="ortaPanel">
+            <div>
+                <a class="panelBaslik" href="Kategori.aspx">Kategoriler</a>
+                <div style="float: left; margin-top: 13px; font-size: large">|</div>
+                <a class="panelBaslik" href="Makale.aspx">Makaleler</a>
+                <div style="float: left; margin-top: 13px; font-size: large">|</div>
+                <a runat="server" class="panelBaslik" href="Uyeler.aspx">Üyeler</a>
+                <div style="float: left; margin-top: 13px; font-size: large">|</div>
+                <a class="panelBaslik" href="Yorumlar.aspx">Yorumlar</a>
+            </div>
+        </div>
+
+        <div class="icerik">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <script src="assets/ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace('ContentPlaceHolder1_tb_Icerik');
+    </script>
+</body>
+</html>

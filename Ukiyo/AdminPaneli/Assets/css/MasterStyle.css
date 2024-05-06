@@ -1,0 +1,73 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: Calibri;
+    background-image: url('../../../images/background.png');
+}
+
+.ustPanel {
+    
+    background-attachment: fixed;
+    height: 80px;
+    width: 1920px;
+    background-color: #D7E6FA;
+    border-bottom: 2px solid black;
+}
+    .ustPanel .baslik {
+        float: left;
+        padding: 20px;
+        margin-top: 4px
+    }
+
+        .ustPanel .baslik a {
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 20pt;
+            color: black;
+        }
+
+    .ustPanel .kullanici {
+        float: right;
+        margin: 30px;
+    }
+
+        .ustPanel .kullanici .cikis {
+            text-decoration: none;
+            color: black;
+        }
+
+            .ustPanel .kullanici .cikis:hover {
+                color: darkred;
+            }
+
+.ortaPanel {
+    
+    margin: auto;
+    background-color: #D7E6FA;
+    border: 2px solid black;
+    height: 50px;
+    width: 1152px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top: 0px;
+}
+
+    .ortaPanel .panelBaslik {
+        display: flex;
+        float: left;
+        text-decoration: none;
+        margin-top: 10px;
+        margin-left: 100px;
+        margin-right: 90px;
+        color: black;
+        font-size: 16pt;
+        font-weight: 600;
+        overflow: hidden;
+    }

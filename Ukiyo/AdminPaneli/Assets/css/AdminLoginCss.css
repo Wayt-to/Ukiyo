@@ -1,0 +1,77 @@
+﻿body {
+    background-image: url('../../../images/background.png');
+}
+.girispanel{
+    background-color:antiquewhite;
+    border:2px solid #4f4f4f;
+    height:600px;
+    width:600px;
+    border-radius:50px;
+    margin:auto;
+    margin-top:140px;
+    padding:10px;
+}
+    .girispanel label {
+        float:left;
+        padding:10px;
+        font-family:Calibri;
+        font-weight:600;
+        font-size:20pt;
+        margin-left:20px;
+    }
+    .girispanel .textBox1 {
+        width: 90%;
+        margin-left: 20px;
+        height: 50px;
+        font-size: 15pt;
+        border-radius: 20px;
+        border: 0px;
+        padding: 3px;
+    }
+
+        .girispanel .textBox1:focus {
+            outline: 2px dashed #8F6558;
+        }
+
+    .girispanel .textBox2 {
+        width: 90%;
+        margin-left: 20px;
+        height: 50px;
+        font-size: 15pt;
+        border-radius: 20px;
+        border: 0px;
+        padding:3px;
+
+    }
+        .girispanel .textBox2:focus {
+            outline: 2px dashed #8F6558;
+        }
+    .girispanel .girisButon {
+        width: 90%;
+        margin-left: 22px;
+        height: 50px;
+        font-size: 15pt;
+        margin-top: 40px;
+        background-color: #d1c4ad;
+        border-radius: 20px;
+        border: 0px;
+        padding: 3px;
+    }
+        .girispanel .girisButon:hover {
+            cursor:pointer;
+            background-color: #808080;
+            color:white;
+        }
+        .basarisizpanel {
+            background-color: #cc7373;
+            color: white;
+            padding: 10px;
+            border-radius: 7px;
+            border: 1px solid #808080;
+            margin: 10px;
+            width: 90%;
+            font-family: Calibri;
+            text-align: center;
+        }
+
+

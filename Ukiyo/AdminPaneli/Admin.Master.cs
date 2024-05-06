@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using DataAccessLayer;
+
+namespace Ukiyo.AdminPaneli
+{
+    public partial class Admin : System.Web.UI.MasterPage
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (Session["yonetici"]==null)
+            {
+                Response.Redirect("AdminLogin.aspx");
+            }
+            else
+            {
+                Yoneticiler yon = (Yoneticiler)Session["yonetici"];
+                lbl_kullanici.Text = yon.KullaniciAdi + " (" + yon.YoneticiTur + ")";
+                
+            }
+        }
+
+        protected void lbtn_cikis_Click(object sender, EventArgs e)
+        {
+            Session["yönetici"] = null;
+            Response.Redirect("AdminLogin.aspx");
+        }
+    }
+}

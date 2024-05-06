@@ -1,0 +1,181 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Comic Sans MS';
+}
+
+.altPanel {
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 60%;
+    height: 700px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: #D7E6FA;
+}
+
+.altPanelMakale {
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 60%;
+    height: 1700px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: #D7E6FA
+}
+
+.kategoriBaslik {
+    border: 5px dotted silver;
+    border-radius: 10px;
+    float: left;
+    font-size: 50px;
+    padding: 0px;
+    margin-left: 180px;
+    margin-top: 300px;
+    color: black;
+    text-decoration: none;
+    font-weight: 900;
+    font-family: 'Comic Sans MS';
+}
+
+    .kategoriBaslik:hover {
+        background-color: aliceblue;
+    }
+
+.formBaslik {
+    padding: 20px;
+    font-size: 18pt;
+    font-weight: 600;
+}
+
+.ayrac {
+    border: 1px solid black;
+    margin-top: -5px;
+}
+
+.formetiket {
+    margin-top: 5px;
+    display: block;
+    margin-left: 20px;
+    color: #525252;
+    padding: 0px;
+    font-size: 14pt;
+}
+
+.satir {
+    padding: 7px 0px;
+}
+
+.FormTextBox {
+    width: 80%;
+    height: 20px;
+    padding: 7px;
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 12pt;
+}
+
+    .FormTextBox:focus {
+        outline: 1px solid black;
+    }
+
+.checkBox {
+    margin-left: 20px;
+    width: 100px;
+}
+
+.formButon {
+    float: right;
+    margin-top: 20px;
+    margin-right: 35px;
+    width: 120px;
+    height: 40px;
+    background-color: darkgreen;
+    border: 0px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}
+.formDurum {
+    border: 1px solid silver;
+    background-color: #2c45d9;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    text-align:center;
+}
+
+    .formDurum:hover {
+        background-color:red;
+    }
+
+.basarisizpanel {
+    background-color: #ff9494;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+    border: 1px solid red;
+    margin-top: 10px;
+    width: 59%;
+    margin-left: 20px;
+}
+
+.basarilipanel {
+    background-color: #79ca79;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+    border: 1px solid forestGreen;
+    margin-top: 10px;
+    width: 59%;
+    margin-left: 30px;
+}
+
+.tablo {
+    width: 100%;
+    border: 1px solid silver;
+}
+
+    .tablo tr {
+    }
+
+        .tablo tr th {
+            position: sticky;
+            border: 1px solid black;
+            border-bottom: 3px solid black;
+            border-top: none;
+            background-color: silver;
+            text-align: left;
+            padding: 10px 5px;
+            top: 0px;
+        }
+
+        .tablo tr td {
+            border: 1px solid #f2f2f2;
+            padding: 7px 3px;
+        }
+
+.tabloButonDuzenle {
+    background-color: #79ca79;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+    border: 1px solid silver;
+    text-align: center;
+    
+}
+
+.tabloDıs {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 550px;
+}

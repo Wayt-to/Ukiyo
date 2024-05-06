@@ -1,0 +1,313 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url('../Images/background.png');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Calibri;
+    background-repeat: no-repeat;
+}
+
+.ustPanel {
+    margin-top: -10px;
+    height: 87px;
+    width: 100%;
+    background-color: #689ae38e;
+    float: left;
+    border: 1px solid silver;
+}
+
+.logo {
+    float: left;
+    max-height: 60px;
+    padding: 20px;
+    margin-top: -22px;
+}
+
+.ustPanel .menu {
+    float: left;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    font-family: Calibri;
+    font-size: 20pt;
+    font-weight: 600;
+    padding: 20px;
+    margin-top: 6px;
+}
+
+.ustPanel .uyepanel {
+    float: right;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    font-family: Calibri;
+    font-size: 15pt;
+    font-weight: 600;
+    padding: 20px;
+    margin-top: 8px;
+    margin-right: 20px;
+}
+
+    .ustPanel .uyepanel a {
+        text-decoration: none;
+        color: black;
+        padding: 5px;
+    }
+
+.tasiyici {
+    width: 1200px;
+    margin: 10px 300px;
+}
+
+.icerik {
+    width: 800px;
+}
+
+.Makale {
+    float: left;
+    margin-top: 30px;
+}
+
+    .Makale .detay {
+        padding: 7px;
+        font-family: Calibri;
+        font-size: 16pt;
+        font-weight: 600;
+        border-bottom: 1px solid silver;
+        border-top: 1px solid silver;
+        color: dimgray;
+    }
+
+    .Makale .kapak img {
+        width: 100%;
+        height: 500px;
+    }
+
+    .Makale .baslik a {
+        font-size: 20pt;
+        font-family: Calibri;
+        font-weight: 600;
+        text-decoration: none;
+        color: black;
+    }
+
+    .Makale .baslik {
+        padding: 7px;
+    }
+
+
+
+    .Makale .ozet {
+        padding: 7px;
+        font-size: 15pt;
+        font-family: Calibri;
+        font-weight: 500;
+        text-decoration: none;
+        color: black;
+        border-right: 1px solid silver;
+        border-left: 1px solid silver;
+    }
+
+    .Makale .devami a {
+        padding: 5px;
+        float: right;
+        text-decoration: none;
+        font-family: Calibri;
+        color: burlywood;
+        font-weight: 600;
+    }
+
+.girispanel {
+    float: left;
+    background-color: #689ae38e;
+    border: 5px dashed #8F6558;
+    height: 600px;
+    width: 600px;
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-top: 100px;
+    padding: 10px;
+}
+
+    .girispanel label {
+        float: left;
+        padding: 10px;
+        font-family: Calibri;
+        font-weight: 600;
+        font-size: 20pt;
+        margin-left: 20px;
+        color: aliceblue;
+    }
+
+    .girispanel .textBox1 {
+        width: 90%;
+        margin-left: 20px;
+        height: 50px;
+        font-size: 15pt;
+        border-radius: 20px;
+        border: 0px;
+        padding: 5px;
+    }
+
+        .girispanel .textBox1:focus {
+            outline: 4px dashed #8F6558;
+        }
+
+    .girispanel .textBox2 {
+        width: 90%;
+        margin-left: 20px;
+        height: 50px;
+        font-size: 15pt;
+        border-radius: 20px;
+        border: 0px;
+        padding: 5px;
+    }
+
+        .girispanel .textBox2:focus {
+            outline: 4px dashed #8F6558;
+        }
+
+    .girispanel .girisButon {
+        width: 90%;
+        margin-left: 24px;
+        height: 50px;
+        font-size: 15pt;
+        margin-top: 40px;
+        background-color: #FFFFFF;
+        border-radius: 20px;
+        border: 0px;
+        padding: 3px;
+    }
+
+        .girispanel .girisButon:hover {
+            cursor: pointer;
+            background-color: #808080;
+            color: white;
+        }
+
+.basarisizpanel {
+    float: left;
+    background-color: #cc7373;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+    border: 1px solid #808080;
+    margin-left: 450px;
+    margin-top: 20px;
+    width: 300px;
+    font-family: Calibri;
+    text-align: center;
+}
+.basarilipanel {
+    background-color: #79ca79;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+    border: 1px solid forestGreen;
+    margin-top: 10px;
+    width: 59%;
+    margin-left: 30px;
+}
+
+.yorumPanel {
+    float: left;
+    margin-top: 50px;
+    width: 100%;
+}
+
+.yorumYok {
+    margin-top: 15px;
+    border: 1px solid silver;
+    height: 70px;
+    font-size: 20pt;
+    padding: 5px;
+    width: 99.5%;
+    border-radius: -10px;
+    font-weight: 600;
+    background-color: #53525296;
+    text-align: center;
+}
+
+.ayrac1 {
+    border: 1px solid silver;
+    margin-top: 4px;
+    width: 101%;
+}
+
+.YorumKutu {
+    min-width: 780px;
+    min-height: 200px;
+    padding: 10px;
+    font-size: 14pt;
+    margin-top:10px;
+    max-width:790px;
+    max-height:350px;
+}
+
+    .YorumKutu:focus {
+        outline: 2px solid black;
+    }
+
+.yorumPanelKutu {
+    float: left;
+    border: 2px dashed #95908A;
+    width: 100%;
+    margin-top: 15px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    min-height: 100px;
+}
+
+.yorumDetay {
+    padding: 3px;
+    font-weight: 600;
+    font-size: large;
+    color: aliceblue;
+    background-color: #95908A;
+}
+
+.yorumIcerik {
+    font-size: 13pt;
+    font-weight: 600;
+    padding: 4px;
+}
+
+.YorumButon {
+    margin-top: -10px;
+    float: right;
+    color: white;
+    background-color: #808080;
+    border: 1px solid #808080;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+    .YorumButon:hover {
+        background-color: #353434;
+    }
+.KategoriKutu {
+    border: 5px dotted silver;
+    border-radius: 10px;
+    float: left;
+    font-size: 50px;
+    padding: 0px;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+    .KategoriKutu a {
+        text-decoration: none;
+        font-weight: 900;
+        font-family: 'Comic Sans MS';
+        color: black;
+        padding:5px;
+    }
+    .KategoriKutu:hover {
+        background-color: aliceblue;
+    }
+
